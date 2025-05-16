@@ -27,5 +27,5 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MohammadArslanKana/ark.git
+      git clone https://github.com/MohammadArslanKana/Rizq-Bakery-and-Restaurant.git
    ```
